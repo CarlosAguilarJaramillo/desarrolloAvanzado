@@ -1,0 +1,9 @@
+#myMenuPermisos label{
+    margin-left: 10px;
+}
+#myMenuPermisos [type="checkbox"]{
+    margin-left: 10px;
+}
+#sys_menu label, #sys_menu input{
+    cursor: pointer;
+}

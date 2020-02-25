@@ -1,0 +1,8 @@
+Options +FollowSymLinks -MultiViews
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule (.*)/$ http://localhost/pedidos/$1 [R=301,L,QSA]
+
+RewriteRule ^([a-zA-Z_-]*)$ index.php?pagina=$1 [L,QSA]

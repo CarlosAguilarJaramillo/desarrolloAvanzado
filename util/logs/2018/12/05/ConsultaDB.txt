@@ -1,0 +1,3 @@
+2018-12-05 21:21:24 >>> Error en el query: ( Table 'pedidos.usuarios' doesn't exist ) SELECT * FROM usuarios
+2018-12-05 21:27:40 >>> Error en el query: ( Table 'pedidos.usuario' doesn't exist ) SELECT * FROM usuario
+2018-12-05 21:31:11 >>> Error en el query: ( Table 'pedidos.usuario' doesn't exist ) UPDATE usuario SET clave = '123'

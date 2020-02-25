@@ -1,0 +1,1 @@
+2018-12-05 21:19:09 >>> Error de conexión: ( 1049 ) Unknown database 'pedidos'

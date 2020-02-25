@@ -1,0 +1,3 @@
+2018-12-04 22:07:53 >>> Este es un mensaje de prueba
+2018-12-04 22:07:53 >>> Este es un mensaje de prueba
+2018-12-04 22:07:54 >>> Este es un mensaje de prueba
